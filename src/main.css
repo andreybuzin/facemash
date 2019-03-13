@@ -1,0 +1,10 @@
+body {
+  font-family: Lato, Arial, sans-serif;
+  background: #222;
+}
+.no-padding {
+  padding: 0;
+}
+.modal-footer {
+  padding: 0.5rem;
+}
